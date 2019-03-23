@@ -1,3 +1,5 @@
+package dragon;
+
 import java.util.Scanner;
 
 public class DragonTask {

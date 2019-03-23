@@ -1,3 +1,5 @@
+package dragon;
+
 public class Dragon {
     int heads;
     int tails;
